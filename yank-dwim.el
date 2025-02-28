@@ -35,8 +35,6 @@
 
 (require 'org-macs)
 (require 'simple)
-(require 'subr)
-
 
 ;;; yank-dwim for markdown ====================================================
 
